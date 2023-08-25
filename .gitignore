@@ -1,0 +1,5 @@
+.terraform/
+deploy.zip
+secrets/
+.DS_Store
+thumbs.db
